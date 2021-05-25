@@ -1,4 +1,4 @@
-##👋 Hi, I’m Nishant Kumar aka @CosmicTechie
+## 👋 Hi, I’m Nishant Kumar aka @CosmicTechie
 
 - 👀 I’m interested in Technology and Cosmos.
 - 🌱 I’m currently learning to implement Data Science and a lot more.
