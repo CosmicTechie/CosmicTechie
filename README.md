@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in Technology and Cosmos.
 - 🌱 I’m currently learning to implement Data Science and a lot more.
-- 💞️ I’m looking to collaborate on Machine Learning and Programmin
+- 💞️ I’m looking to collaborate on Machine Learning and Programming.
 <!--- 📫 How to reach me? : -->
 ### Most fascinating SuperPower is to play with Matter and Energy. It is the power to have possession over the Cosmos. To fulfil this desire, programmer play with code and hardware.
 <!---
