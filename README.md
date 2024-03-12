@@ -15,9 +15,9 @@ I am a computer science engineer. I enjoy applying my skills to create innovativ
 ![](https://github-readme-stats.vercel.app/api?username=cosmictechie&theme=dark&hide_border=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cosmictechie&theme=dark&hide_border=false)<br/>    -->
 
-
+<!--
 ## Support Me
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/cosmictechie) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/cosmictechie) 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/cosmictechie) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/cosmictechie) -->
 <!---
 CosmicTechie/CosmicTechie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
