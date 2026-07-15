@@ -1,24 +1,62 @@
-# Hi, I'm Nishant! 👋
-## 🚀 About Me
-IT and Data professional with over 4 years of experience delivering end-to-end data solutions that support strategic decision-making. Skilled in data analysis, database development, and systems integration Demonstrated success in optimizing data workflows, enhancing performance, and automating reporting processes. Combines technical expertise with business insight to drive efficiency and actionable outcomes across diverse environments. 
+# Hi there, I'm Nishant Kumar! 👋
 
-<!--
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/cosmictechie) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cosmictechieofficial) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cosmictechie) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cosmictechie) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@cosmictechie) 
+I am an **IT & Data Professional** with 5 years of experience architecting end-to-end data solutions[cite: 1]. My expertise lies at the intersection of Data Engineering, Database Optimization, and Machine Learning[cite: 1]. I specialize in translating complex datasets into scalable data pipelines and actionable business frameworks[cite: 1].
 
--->
-<!-- 
-### 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+* 🚀 Currently driving enterprise-level data initiatives as a **Data Engineer**[cite: 1].
+* 🧠 Passionate about building robust ETL automation, tuning enterprise databases, and deploying intelligent models[cite: 1].
+* 🌌 **Fun Fact:** I have a deep fascination with Cosmos and Physics, viewing mathematics and logic as the ultimate language of the Universe[cite: 1].
 
+---
 
-### 📊 GitHub Stats: 
-![](https://github-readme-stats.vercel.app/api?username=cosmictechie&theme=dark&hide_border=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cosmictechie&theme=dark&hide_border=false)<br/>    -->
+### 🧰 Technical Ecosystem
 
-<!--
-## Support Me
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/cosmictechie) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/cosmictechie) -->
-<!---
-CosmicTechie/CosmicTechie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Languages & Core Dev</h4>
+      <ul>
+        <li>Python, SQL, PL/SQL, Basic Java[cite: 1]</li>
+        <li>Linux, Git/GitHub, VS Code, Anaconda[cite: 1]</li>
+      </ul>
+      <h4>⚙️ Data Engineering & DevOps</h4>
+      <ul>
+        <li>ETL Workflows & Automation[cite: 1]</li>
+        <li>Docker Containerization[cite: 1]</li>
+        <li>Jenkins & CI/CD Pipelines[cite: 1]</li>
+        <li>Agile Methodologies[cite: 1]</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 Machine Learning & Analytics</h4>
+      <ul>
+        <li>Pandas, NumPy, Scikit-Learn[cite: 1]</li>
+        <li>TensorFlow, PyTorch, PySpark, SciPy[cite: 1]</li>
+        <li>Matplotlib & Exploratory Data Analysis (EDA)[cite: 1]</li>
+      </ul>
+      <h4>🗄️ Database & BI Tools</h4>
+      <ul>
+        <li>Oracle PL/SQL Developer[cite: 1]</li>
+        <li>SQL Tuning (Explain Plans, Trace Files)[cite: 1]</li>
+        <li>Power BI, Tableau, JasperSoft[cite: 1]</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💼 What I Bring to the Table
+
+* **End-to-End Data Engineering:** Proven track record of managing the entire data lifecycle—from cross-functional requirements gathering to deploying automated workflows that eliminate manual reporting overhead[cite: 1].
+* **Performance Optimization:** Specialized in database tuning for bulk data processing and large-scale migrations, optimizing complex queries to boost overall system responsiveness[cite: 1].
+* **Analytical Framework Design:** Combined 5 years of tech experience with 18 months of intensive civil services research, equipping me with a unique capacity to critically analyze macro-level structural, economic, and operational frameworks[cite: 1].
+* **Collaborative Leadership:** Experienced in mentoring and upskilling cross-functional teams while interface-facing with global clients to translate complex technical architectures into clear business goals[cite: 1].
+
+---
+
+### 🤝 Connect with Me
+
+* 💼 **LinkedIn:** [linkedin.com/in/coXXXXXchie](https://linkedin.com/in/coXXXXXchie)[cite: 1]
+* 📧 **Email:** [nisXXXXXXded@gmail.com](mailto:nisXXXXXXded@gmail.com)[cite: 1]
+
+⚡ *“Data tells the story of what happened, but logic and mathematics explain why.”*
